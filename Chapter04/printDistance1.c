@@ -33,5 +33,5 @@ void printDistance( double f )
   printf( "The distance in yards is %12.3g\n" , f );
 }
 
-  // <eof>
+  // <eof>k
   
