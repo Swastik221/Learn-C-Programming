@@ -25,13 +25,13 @@ void printWord( char* word )
 }
 
 int main() 
-{
-  printWord( "Hello" );
-  printComma();
-  printWord( "world" );
-  printf( "!\n" );
+    {
+      printWord( "Hello" );
+      printComma();
+      printWord( "world" );
+      printf( "!\n" );
 
-  return 0; 
-}
+      return 0; 
+    }
 
 //  <eof>
